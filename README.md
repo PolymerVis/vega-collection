@@ -10,7 +10,7 @@ vega-collection
     <link rel="import" href="../vega-element/vega-signal.html">
     <link rel="import" href="../vega-element/vega-element.html">
     <link rel="import" href="../marked-vega/marked-vega.html">
-    <link rel="import" href="../marked-element/marked-element.html">
+    <link href="http://polygit.org/components/marked-element/marked-element.html" rel="import">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
