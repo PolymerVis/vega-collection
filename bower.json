@@ -1,0 +1,34 @@
+{
+  "name": "vega-collection",
+  "homepage": "https://github.com/PolymerVis/vega-collection",
+  "authors": [
+    "eterna2 <eterna2@hotmail.com>"
+  ],
+  "description": "A collection of Polymer elements for Vega and Vega-Lite.",
+  "main": "vega-collection.html",
+  "keywords": [
+    "vega",
+    "vega-lite",
+    "polymer",
+    "web-components",
+    "element-collection",
+    "visualization",
+    "data",
+    "visualization",
+    "d3",
+    "markdown",
+    "charts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vega-element": "PolymerVis/vega-element#^2.0.2",
+    "marked-vega": "PolymerVis/marked-vega#^2.0.1"
+  }
+}
