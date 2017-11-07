@@ -29,6 +29,7 @@
   ],
   "dependencies": {
     "vega-element": "PolymerVis/vega-element#^2.0.2",
-    "marked-vega": "PolymerVis/marked-vega#^2.0.1"
+    "marked-vega": "PolymerVis/marked-vega#^2.0.1",
+    "monaco-editor": "PolymerVis/monaco-editor#^2.0.0"
   }
 }

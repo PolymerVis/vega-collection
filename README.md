@@ -32,6 +32,8 @@ vega-collection
 `vega-collection` is a collection of Polymer elements for [Vega](https://vega.github.io/vega/) and [Vega-Lite](https://vega.github.io/vega-lite/):
 - [`vega-element`](https://www.webcomponents.org/element/PolymerVis/vega-element) is a Polymer (1.X, 2.X) element for rendering interactive data visualization with Vega and Vega-Lite.
 - [`marked-vega`](https://www.webcomponents.org/element/PolymerVis/marked-vega) is a Polymer 2.0 add-on element for [`marked-element`](https://www.webcomponents.org/element/PolymerElements/marked-element) to render Vega and Vega-Lite charts from markdown.
+- [`gulp-marked-vega`](https://github.com/e2fyi/gulp-marked-vega) is a gulp-plugin (also has a cli) to embed base64 images into your `marked-vega` markdown so that any standard markdown parser can render the charts without additional plugins.
+- [`monaco-editor`](https://www.webcomponents.org/element/PolymerVis/monaco-editor) is a Polymer 2.0 element for the [Monaco Editor](https://github.com/Microsoft/monaco-editor), a browser-based code editor that also powers Visual Studio Code. `monaco-editor` can be adapted for editing Vega and Vega-Lite spec when used together with `monaco-schemas`.
 
 **Vega** is a visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs. With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format, and generate web-based views using Canvas or SVG.
 
